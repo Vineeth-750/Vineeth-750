@@ -26,11 +26,11 @@
 
 ## 👨‍💻 About me
 
-- 🎓 MCA graduate focused on **Linux administration, cloud infrastructure and DevOps automation**
+- 🎓 A guy who love to do **Linux administration, cloud infrastructure and DevOps automation**
 - 🖥️ Managed **RHEL 9/10 and Ubuntu** servers for 50+ users with 99%+ uptime (firewalld, SELinux, SSL/DNS troubleshooting)
 - ☁️ Building on **AWS** (VPC, EC2, Lambda, ALB, Auto Scaling) with **Ansible, Terraform and GitHub Actions**
-- 🌱 Currently preparing for **AWS Certified Solutions Architect – Associate**
-- 💬 Ask me about Linux servers, Ansible playbooks, AWS networking and Django backends
+- 🌱 Currently looking for some good opertunities
+- 💬 Ask me about Linux servers, Ansible playbooks, AWS networking
 
 ---
 
