@@ -50,7 +50,7 @@
 
 <img src="https://streak-stats.demolab.com?user=Vineeth-750&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineeth-750&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineeth-750&theme=tokyonight&hide_border=true&area=true" width="100%" alt="activity graph" />
 
 ### 📌 Featured Projects
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
