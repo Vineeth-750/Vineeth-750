@@ -11,7 +11,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=2f81f7&style=flat" alt="profile views" />
   <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:vineeth.nair997@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
@@ -19,7 +18,6 @@
 <div align="center">
   <a href="https://www.credly.com/badges/8bbf3c46-9f8a-4588-bae5-83a38c0d4070"><img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCSA" /></a>
   <a href="https://www.credly.com/badges/f5d97bdd-d56f-4f48-b63a-67576a37ada9"><img src="https://img.shields.io/badge/RHCE-Certified-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="RHCE" /></a>
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-In%20Progress-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SAA in progress" />
 </div>
 
 ---
@@ -28,7 +26,7 @@
 
 - 🎓 A guy who love to do **Linux administration, cloud infrastructure and DevOps automation**
 - 🖥️ Managed **RHEL 9/10 and Ubuntu** servers for 50+ users with 99%+ uptime (firewalld, SELinux, SSL/DNS troubleshooting)
-- ☁️ Building on **AWS** (VPC, EC2, Lambda, ALB, Auto Scaling) with **Ansible, Terraform and GitHub Actions**
+- ☁️ Building on **AWS** with **Ansible, Terraform and GitHub Actions**
 - 🌱 Currently looking for some good opertunities
 - 💬 Ask me about Linux servers, Ansible playbooks, AWS networking
 
