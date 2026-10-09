@@ -7,7 +7,7 @@
 <a href="mailto:vineeth.nair997@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.credly.com/badges/8bbf3c46-9f8a-4588-bae5-83a38c0d4070"><img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCSA" /></a>
 <a href="https://www.credly.com/badges/f5d97bdd-d56f-4f48-b63a-67576a37ada9"><img src="https://img.shields.io/badge/RHCE-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCE" /></a>
-<img src="https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA in progress" />
+<img src="https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="" />
 
 <img src="assets/hero-cards.svg" width="100%" alt="Linux, AWS, Docker, Kubernetes, CI/CD, Terraform, Ansible and monitoring" />
 
@@ -44,13 +44,13 @@
 <img src="assets/impact.svg" width="100%" alt="Impact highlights" />
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Vineeth-750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-750&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <img src="https://streak-stats.demolab.com?user=Vineeth-750&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vineeth-750&theme=tokyonight&hide_border=true&area=true" width="100%" alt="activity graph" />
+<img src="https://YOUR-VERCEL-DOMAIN.vercel.app/graph?username=Vineeth-750&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Vineeth's Activity Graph" />
 
 ### 📌 Featured Projects
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
