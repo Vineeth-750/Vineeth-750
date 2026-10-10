@@ -2,16 +2,15 @@
 
 # Hi there, I'm Vineeth 👋
 
-<a href="https://github.com/YOUR_USERNAME"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&width=650&lines=Junior+DevOps+Engineer;RHCSA+%26+RHCE+Certified;Linux+%7C+AWS+%7C+Ansible+%7C+Docker;Open+to+DevOps+%26+System+Engineer+roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://github.com/Vineeth-750"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=2F81F7&width=700&lines=RHCSA+%26+RHCE+Certified;Open+to+DevOps%2C+SRE+%26+System+Engineer+job+roles+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+views&color=2f81f7&style=flat-square" alt="views" />
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<a href="https://linkedin.com/in/vineeth-k-p77"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:vineeth.nair997@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.credly.com/badges/8bbf3c46-9f8a-4588-bae5-83a38c0d4070"><img src="https://img.shields.io/badge/RHCSA-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCSA" /></a>
 <a href="https://www.credly.com/badges/f5d97bdd-d56f-4f48-b63a-67576a37ada9"><img src="https://img.shields.io/badge/RHCE-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCE" /></a>
-<img src="https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA in progress" />
 
-<img src="assets/tech-marquee.svg" width="100%" alt="Tools and technologies I use" />
+
 
 ### 🚀 About Me
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
@@ -19,8 +18,7 @@
 - 🎓 MCA graduate focused on **Linux administration, cloud infrastructure and DevOps automation**
 - 🖥️ Managed **RHEL 9/10 and Ubuntu** servers for 50+ users with 99%+ uptime (firewalld, SELinux, SSL and DNS troubleshooting)
 - ☁️ Building on **AWS** (VPC, EC2, Lambda, ALB, Auto Scaling) with **Ansible, Terraform and GitHub Actions**
-- 🌱 Preparing for **AWS Certified Solutions Architect – Associate**
-- 💬 Ask me about Linux servers, Ansible playbooks, AWS networking and Django backends
+- 💬 Ask me about Linux servers, Ansible playbooks, AWS networking 
 
 ### 🛠️ Tech Stack
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
@@ -46,13 +44,15 @@
 <img src="assets/impact.svg" width="100%" alt="Impact highlights" />
 
 <p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=Vineeth-750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-750&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="streak" />
+<img  height="170" width="100%" src="https://streak-stats.demolab.com?user=Vineeth-750&theme=tokyonight&hide_border=true" alt="streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph" />
+
+<img  height="150" src="assets/tech-marquee.svg" width="100%" alt="Tools and technologies I use" />
+
 
 ### 📌 Featured Projects
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
