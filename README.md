@@ -11,7 +11,7 @@
 <a href="https://www.credly.com/badges/f5d97bdd-d56f-4f48-b63a-67576a37ada9"><img src="https://img.shields.io/badge/RHCE-Certified-EE0000?style=flat-square&logo=redhat&logoColor=white" alt="RHCE" /></a>
 <img src="https://img.shields.io/badge/AWS%20SAA-In%20Progress-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS SAA in progress" />
 
-<img src="tech-marquee.svg" width="100%" alt="Tools and technologies I use" />
+<img src="assets/tech-marquee.svg" width="100%" alt="Tools and technologies I use" />
 
 ### 🚀 About Me
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
