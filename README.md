@@ -44,8 +44,8 @@
 
 
 <p>
-<img height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=Vineeth-750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
-<img height="170"  width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-750&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+<img height="170" width="250" src="https://github-readme-stats.vercel.app/api?username=Vineeth-750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170"  width="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-750&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </p>
 
 <img  height="170" width="100%" src="https://streak-stats.demolab.com?user=Vineeth-750&theme=tokyonight&hide_border=true" alt="streak" />
