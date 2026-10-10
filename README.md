@@ -68,4 +68,4 @@
 ### 🐍 Contribution Snake
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
 
-<img alt="snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg?v=3" width="100%" />
+<img alt="snake animation" src="https://raw.githubusercontent.com/Vineeth-750/Vineeth-750/output/github-snake-dark.svg?v=3" width="100%" />
