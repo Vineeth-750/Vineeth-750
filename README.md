@@ -41,7 +41,7 @@
 ### 📊 Dynamic Stats
 <img src="assets/divider.svg" width="100%" height="3" alt="" />
 
-<img src="assets/impact.svg" width="100%" alt="Impact highlights" />
+
 
 <p>
 <img height="170" width="500" src="https://github-readme-stats.vercel.app/api?username=Vineeth-750&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
